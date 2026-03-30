@@ -1,0 +1,90 @@
+body{font-family:Arial;
+     font-weight: bold;
+     overflow:hidden;
+     user-select: none;
+}
+.button1{
+     display: flex;
+     flex-direction: column;
+     background:linear-gradient(#520d0d,#831616,#af0f0f);
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 25%;
+     height: 100%;
+     justify-content: center;
+     text-align: center;
+     align-items: center;
+     box-shadow: 
+     inset 0 -4px 0 rgba(0, 0, 0, 0.3),
+     inset 0 4px 6px rgba(255, 255, 255, 0.5),
+     2px 0 0 rgba(0, 0, 0, 0.4);
+     transition-duration: 0.5s;
+     color:wheat;
+     font-size: 40px;
+}
+.button2{
+     display: flex;
+     flex-direction: column;
+     background:linear-gradient(#520d0d,#831616,#af0f0f);
+     position: fixed;
+     top: 0;
+     left: 25%;
+     width: 25%;
+     height: 100%;
+     align-items: center;
+     text-align: center;
+     justify-content: center;
+     box-shadow: 
+     inset 0 -4px 0 rgba(0, 0, 0, 0.3),
+     inset 0 4px 6px rgba(255, 255, 255, 0.5),
+     2px 0 0 rgba(0, 0, 0, 0.4);
+     transition-duration: 0.5s;
+     color:wheat;
+     font-size: 40px;;
+}
+.button3{
+     display: flex;
+     flex-direction: column;
+     background:linear-gradient(#520d0d,#831616,#af0f0f); 
+     position: fixed;
+     top: 0;
+     left: 50%;
+     width: 25%;
+     height: 100%;
+     align-items: center;
+     text-align: center;
+     justify-content: center;
+     box-shadow: 
+     inset 0 -4px 0 rgba(0, 0, 0, 0.3),
+     inset 0 4px 6px rgba(255, 255, 255, 0.5),
+     2px 0 0 rgba(0, 0, 0, 0.4);
+     transition-duration: 0.5s;
+     color:wheat;
+     font-size: 40px;;
+}
+
+.button4{
+          display: flex;
+     flex-direction: column;
+     background:linear-gradient(#520d0d,#831616,#af0f0f);; 
+     position: fixed;
+     top: 0;
+     left: 75%;
+     width: 25%;
+     height: 100%;
+     align-items: center;
+     text-align: center;
+     justify-content: center;
+     box-shadow: 
+     inset 0 -4px 0 rgba(0, 0, 0, 0.3),
+     inset 0 4px 6px rgba(255, 255, 255, 0.5),
+     2px 0 0 rgba(0, 0, 0, 0.4);
+     transition-duration: 0.5s;
+     color:wheat;
+     font-size: 40px;;
+}
+
+
+.img{transition-duration: 0.5s;
+     margin-bottom: 70px;}
