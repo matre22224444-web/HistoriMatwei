@@ -1,0 +1,4 @@
+10:53:17:096 [WARN]	Request Failed. ErrorCode: 112029 errorMessage: Platform Status, Send Request Failed. WinHTTP Cannot Connect. last error code = 12029 
+10:53:25:402 [WARN]	Request Failed. ErrorCode: 112029 errorMessage: Platform Status, Send Request Failed. WinHTTP Cannot Connect. last error code = 12029 
+10:53:33:631 [WARN]	Request Failed. ErrorCode: 112029 errorMessage: Platform Status, Send Request Failed. WinHTTP Cannot Connect. last error code = 12029 
+10:57:45:597 [WARN]	Request Failed. ErrorCode: 112029 errorMessage: Platform Status, Send Request Failed. WinHTTP Cannot Connect. last error code = 12029 
